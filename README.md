@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gtraversa
-- 👀 I’m interested in applications of reinforcement learning
-- 🌱 I’m currently studying elecrical and electronic engineering with computerscience @ UCL
+- 👀 I’m interested in Applications of Reinforcement Learning
+- 🌱 I’m currently studying Electrical and Electronic Engineering with Computer Science (2022) @ UCL
 - 💞️ I’m looking to collaborate on:
 - 📫 How to reach me: gianlu.traversa@gmail.com
 
